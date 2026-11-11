@@ -1,9 +1,9 @@
 {
   "estable": null,
   "alfa": {
-    "version": "0.2.24",
-    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.24/radiola-0.2.24-alfa.zip",
-    "sha256": "d8899db30a82f85c7553d32d15c59298f2abc2b649221778470b33bfef425f32",
-    "size": 173894902
+    "version": "0.2.23",
+    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.23/radiola-0.2.23-alfa.zip",
+    "sha256": "c76a5e0be7f7f1532bb54f49549ae8a459457c7c43875f262c1d2f2dc31b1da6",
+    "size": 173894757
   }
 }
