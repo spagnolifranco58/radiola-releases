@@ -1,9 +1,10 @@
 {
   "estable": null,
   "alfa": {
-    "version": "0.2.32",
-    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.32/radiola-0.2.32-alfa.zip",
-    "sha256": "525cd1b58deea1c5dea3add42d1a8c180d1665d1a1d6e10733d4f3cf0fcff51a",
-    "size": 175647371
+    "version": "0.2.33",
+    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.33/radiola-0.2.33-alfa.zip",
+    "sha256": "1ab748dfef972bbb4de80dc4abd8b9ab196ecb6c272977278037ed666f682dc7",
+    "size": 175648861,
+    "notas": "- El aviso de actualización muestra las novedades de la versión en un cuadro de solo lectura: se recorre y copia con el lector de pantalla, con los botones Sí, descargar y No.\n- Incluye todo lo de 0.2.32: en Radio, cuadro Fuente con YouTube en vivo; favoritos con canales en vivo; la pestaña arranca vacía; los vivos reconectan solos y se anuncian como En vivo."
   }
 }
