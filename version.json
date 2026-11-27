@@ -1,10 +1,10 @@
 {
   "estable": null,
   "alfa": {
-    "version": "0.2.33",
-    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.33/radiola-0.2.33-alfa.zip",
-    "sha256": "1ab748dfef972bbb4de80dc4abd8b9ab196ecb6c272977278037ed666f682dc7",
-    "size": 175648861,
-    "notas": "- El aviso de actualización muestra las novedades de la versión en un cuadro de solo lectura: se recorre y copia con el lector de pantalla, con los botones Sí, descargar y No.\n- Incluye todo lo de 0.2.32: en Radio, cuadro Fuente con YouTube en vivo; favoritos con canales en vivo; la pestaña arranca vacía; los vivos reconectan solos y se anuncian como En vivo."
+    "version": "0.2.34",
+    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.34/radiola-0.2.34-alfa.zip",
+    "sha256": "bfec058ded0825bbb17f2907649a9e4b2b301f7d57894254d68bbad0f1e02fe2",
+    "size": 175653723,
+    "notas": "- Nuevo botón Dispositivo de salida en el Reproductor: abre un menú con las salidas de audio de la compu (auriculares, parlantes, etc.) y cambia al instante sin cortar lo que suena. Se recorre con flechas y Enter, y la elección queda guardada.\n- Si la comprobación de actualizaciones falla al abrir Radiola, ahora se anuncia en voz en lugar de quedar en silencio, y queda anotada en el registro.\n- Incluye todo lo de 0.2.33 y 0.2.32: aviso de actualización con novedades, y Radio con YouTube en vivo."
   }
 }
