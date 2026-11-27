@@ -1,10 +1,10 @@
 {
   "estable": null,
   "alfa": {
-    "version": "0.2.34",
-    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.34/radiola-0.2.34-alfa.zip",
-    "sha256": "bfec058ded0825bbb17f2907649a9e4b2b301f7d57894254d68bbad0f1e02fe2",
-    "size": 175653723,
-    "notas": "- Nuevo botón Dispositivo de salida en el Reproductor: abre un menú con las salidas de audio de la compu (auriculares, parlantes, etc.) y cambia al instante sin cortar lo que suena. Se recorre con flechas y Enter, y la elección queda guardada.\n- Si la comprobación de actualizaciones falla al abrir Radiola, ahora se anuncia en voz en lugar de quedar en silencio, y queda anotada en el registro.\n- Incluye todo lo de 0.2.33 y 0.2.32: aviso de actualización con novedades, y Radio con YouTube en vivo."
+    "version": "0.2.35",
+    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.35/radiola-0.2.35-alfa.zip",
+    "sha256": "96ae0aa0c33a99e230bd5d8fd9de421843ec361e49b96010d9e38de286c81f02",
+    "size": 175655314,
+    "notas": "- Corrección importante: Radiola volvía a cero porque guardaba sus datos en una carpeta temporal de Windows. Ahora vuelve a usar la carpeta real del programa y recupera tus ajustes, favoritas y tutorial.\n- El actualizador vuelve a instalar en la carpeta correcta y se niega a instalar en una temporal.\n- Si Radiola corre desde una carpeta temporal, avisa en voz al abrir.\n- Incluye todo lo de 0.2.34: botón Dispositivo de salida en el Reproductor y aviso hablado si falla la comprobación de actualizaciones."
   }
 }
