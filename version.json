@@ -1,10 +1,10 @@
 {
   "estable": null,
   "alfa": {
-    "version": "0.2.35",
-    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.35/radiola-0.2.35-alfa.zip",
-    "sha256": "96ae0aa0c33a99e230bd5d8fd9de421843ec361e49b96010d9e38de286c81f02",
-    "size": 175655314,
-    "notas": "- Corrección importante: Radiola volvía a cero porque guardaba sus datos en una carpeta temporal de Windows. Ahora vuelve a usar la carpeta real del programa y recupera tus ajustes, favoritas y tutorial.\n- El actualizador vuelve a instalar en la carpeta correcta y se niega a instalar en una temporal.\n- Si Radiola corre desde una carpeta temporal, avisa en voz al abrir.\n- Incluye todo lo de 0.2.34: botón Dispositivo de salida en el Reproductor y aviso hablado si falla la comprobación de actualizaciones."
+    "version": "0.2.36",
+    "url": "https://github.com/spagnolifranco58/radiola-releases/releases/download/v0.2.36/radiola-0.2.36-alfa.zip",
+    "sha256": "c037363ed7944ed36df8e5033716cd546641a24ad26c1f086cadf6852f8b9685",
+    "size": 175652203,
+    "notas": "- Nueva tecla D en el Reproductor: abre el menú de dispositivo de salida directamente, sin recorrer con Tab.\n- Incluye lo de 0.2.35 (Radiola vuelve a usar la carpeta real del programa y recupera tus ajustes) y 0.2.34 (selector de dispositivo de salida y aviso hablado si falla la comprobación de actualizaciones)."
   }
 }
